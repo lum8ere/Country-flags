@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/lum8ere/Country-flags/issues"
   },
-  "homepage": "https://github.com/lum8ere/Country-flags",
+  "homepage": "https://github.com/lum8ere/country-flags/blob/master/README.md",
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@rollup/plugin-terser": "^0.3.0",
