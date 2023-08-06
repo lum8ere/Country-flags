@@ -1,5 +1,5 @@
 {
-  "name": "country-flag",
+  "name": "@lum8ere/Country-flags",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/lum8ere"
   },
